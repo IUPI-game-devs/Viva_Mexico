@@ -2,6 +2,13 @@ Viva Mexico
 ---
 Creadores: Luis Velazquez, Edward Garcia y Bryan Guevara
 
+### Temas Incorporado
+- Manipulación de Primitivos y Compuestos
+- Jerarquías, clonaciones y prefabricados
+- Elaboración de escenarios con mapas y brochas
+- Texturas 3
+
+
 Para el proceso de hacer el templo Azteca utilizamos Probuilder para hacer las estructuras y los materiales, y para hacer el terreno utilizamos el terreno de Unity y lo modificamos con el pincel de terreno. El templo se utilizo materiales para derle el color y tambien utilizamos referencias para saber un poco mas sobre como se veian los templos aztecas.
 
 ![img_1.png](img_1.png)
